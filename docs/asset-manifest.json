@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voting-app-pt1/static/css/main.23a10b6b.chunk.css",
+    "main.js": "/voting-app-pt1/static/js/main.1de02990.chunk.js",
+    "main.js.map": "/voting-app-pt1/static/js/main.1de02990.chunk.js.map",
+    "runtime~main.js": "/voting-app-pt1/static/js/runtime~main.237331f4.js",
+    "runtime~main.js.map": "/voting-app-pt1/static/js/runtime~main.237331f4.js.map",
+    "static/js/2.97294558.chunk.js": "/voting-app-pt1/static/js/2.97294558.chunk.js",
+    "static/js/2.97294558.chunk.js.map": "/voting-app-pt1/static/js/2.97294558.chunk.js.map",
+    "index.html": "/voting-app-pt1/index.html",
+    "precache-manifest.7d61dab703fd0990e8bcdd8a5e36b3d5.js": "/voting-app-pt1/precache-manifest.7d61dab703fd0990e8bcdd8a5e36b3d5.js",
+    "service-worker.js": "/voting-app-pt1/service-worker.js",
+    "static/css/main.23a10b6b.chunk.css.map": "/voting-app-pt1/static/css/main.23a10b6b.chunk.css.map"
+  }
+}
