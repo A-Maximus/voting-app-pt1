@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-// import { plus-sign } from './src/plus-sign.png';
 
 class App extends Component {
   constructor (props){
@@ -29,10 +28,12 @@ class App extends Component {
         {
           this.state.js_library.map((j, i) =>
           <div key ={i}className= "js_library">
+
             <h4>{j.name}</h4>
-            <button onClick={this.vote.bind(this, i)}>Likes: {j.votes}
+            <button 
+              onClick={this.vote.bind(this, i)}><img src="plus.png" alt="plus sign" /> Likes: {j.votes}
             </button>
-            {/* <img src={src/plus-sign.png} alt="plus sign"></img> */}
+            
           </div>
           )
         }

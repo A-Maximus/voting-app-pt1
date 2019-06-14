@@ -4,6 +4,8 @@
   padding: 10px;
   height: 50px;
   background-color: black;
+  display: flex;
+  justify-content: space-between;
 }
 
 
@@ -12,6 +14,7 @@
   line-height: 50px;
   display: inline-block;
   color: gold;
+  
 }
 
 
@@ -20,15 +23,13 @@
   float: right;
   line-height: 50px;
   /* height: 50px; */
-  /* border-radius: 5px; */
+  border-radius: 5px;
+  background-color: gold;
+  
 }
 
+img {
+  height: 30px;
+  background-color: gold;
+}
 
-
-
-/* .js_library button img {
-  background-image: url(public/plus-sign.png);
-  float: right;
-  line-height: 50px;
-  width: 50px;
-} */
